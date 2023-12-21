@@ -21,16 +21,12 @@ This is a Loan Prediction System project which aims to predict whether a loan ap
 - Machine Learning (scikit-learn library)
 
 ## Installation
-
-1. Clone the repository using the following command:
    
-   git clone https://github.com/anjali9156/Loan_Prediction_System.git
-   
-2. Navigate to the project directory using the following command:
+1. Navigate to the project directory using the following command:
    
    cd Loan_Prediction_System
    
-3. Install the required dependencies. The dependencies are listed in the requirements.txt file. You can install them using the following command:
+2. Install the required dependencies. The dependencies are listed in the requirements.txt file. You can install them using the following command:
    
    pip install -r requirements.txt
 
@@ -61,11 +57,11 @@ The performance of the trained model is evaluated using several metrics such as 
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com/anjali9156/Loan_Prediction_System).
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com/tushar2912/Loan_Sanction_prediction_System).
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or suggestions, please feel free to reach out to the project owner [Anjali](https://github.com/anjali9156).
+For any inquiries or suggestions, please feel free to reach out to the project owner [Tushar](https://github.com/tushar2912).
